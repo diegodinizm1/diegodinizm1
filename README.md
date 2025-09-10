@@ -50,9 +50,9 @@ Atualmente, estou aprimorando minhas habilidades em arquitetura de sistemas e ex
 
 ### 🚀 Projetos em Destaque
 
-- **[Sistema de Gestão de Farmácia - Backend](https://github.com/seu-usuario/sistema-farmacia-backend)**
+- **[Sistema de Gestão de Farmácia - Backend](https://github.com/diegodinizm1/sistemaEstoqueFarmaSB)**
   - API RESTful completa com Spring Boot, Spring Security (JWT) e JPA/Hibernate para gerenciamento de estoque, lotes e movimentações.
-- **[Sistema de Gestão de Farmácia - Frontend](https://github.com/seu-usuario/sistema-farmacia-frontend)**
+- **[Sistema de Gestão de Farmácia - Frontend](https://github.com/diegodinizm1/sistemaEstoqueFarmaSB---FRONT)**
   - Interface reativa com React, TypeScript e Material-UI, com dashboards e fluxos de trabalho completos.
 
 ---
